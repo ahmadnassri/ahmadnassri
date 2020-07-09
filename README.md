@@ -1,6 +1,6 @@
 ### About Ahmad Nassri
 
-![Ahmad Nassri](ahmad-nassri.jpg)
+![Ahmad Nassri](./ahmad-nassri.jpg)
 
 Ahmad is a software developer and advocate of all things open-source. A startup advisor and mentor to entrepreneurs & developers, he founded [Tech Masters](https://techmasters.community/) — a developer community of over 10,000+ members engaging in discussions on technology, careers, and learning.
 
