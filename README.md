@@ -12,11 +12,11 @@ Ahmad serves as a board member for a number of not-for-profit organizations that
 
 In his spare time Ahmad [blogs](https://ahmadnassri.com/blog/) on Technology & Leadership, [mentors](https://ahmadnassri.com/about/#advisor) early stage startups, builds open-source [projects](https://ahmadnassri.com/projects/) used by developers world wide, and organizes technology [conferences](https://refactorconf.com) across Canada.
 
-- 👨‍💻 [Website](https://ahmad.link/www)
-- 📝 [Blog](https://ahmad.link/blog)
-- 🎙️ [Podcast](https://ahmad.link/podcast)
-- 🗨️ [Slack](https://ahmad.link/slack)
-- ⚙ [Projects](https://ahmad.link/projects)
-- 👂 [Twitter](https://ahmad.link/twitter)
-- 🤝 [LinkedIn](https://ahmad.link/linkedin)
-- :octocat: [GitHub](https://ahmad.link/github)
+- 👨‍💻 https://ahmadnassri.com
+- 📝 https://ahmadnassri.blog
+- 📷 https://www.instagram.com/ahmadnassri
+- 🎙️ https://hacker.bio
+- 🗨️ https://techmasters.community
+- 📢 https://twitter.com/ahmadnassri
+- 🤝 https://www.linkedin.com/in/ahmadnassri/
+- :octocat: https://github.com/ahmadnassri
