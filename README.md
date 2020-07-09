@@ -14,9 +14,9 @@ In his spare time Ahmad [blogs](https://ahmadnassri.com/blog/) on Technology & L
 
 - 👨‍💻 https://ahmadnassri.com
 - 📝 https://ahmadnassri.blog
-- 📷 https://www.instagram.com/ahmadnassri
-- 🎙️ https://hacker.bio
-- 🗨️ https://techmasters.community
-- 📢 https://twitter.com/ahmadnassri
 - 🤝 https://www.linkedin.com/in/ahmadnassri/
+- 📢 https://twitter.com/ahmadnassri
+- 📷 https://www.instagram.com/ahmadnassri
 - :octocat: https://github.com/ahmadnassri
+- 🗨️ https://techmasters.community
+- 🎙️ https://hacker.bio
