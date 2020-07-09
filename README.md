@@ -1,6 +1,6 @@
 ### About Ahmad Nassri
 
-![Ahmad Nassri](./ahmad-nassri.jpg)
+![Ahmad Nassri](https://github.com/ahmadnassri/ahmadnassri/blob/master/ahmad-nassri.jpg)
 
 Ahmad is a software developer and advocate of all things open-source. A startup advisor and mentor to entrepreneurs & developers, he founded [Tech Masters](https://techmasters.community/) — a developer community of over 10,000+ members engaging in discussions on technology, careers, and learning.
 
@@ -12,9 +12,11 @@ Ahmad serves as a board member for a number of not-for-profit organizations that
 
 In his spare time Ahmad [blogs](https://ahmadnassri.com/blog/) on Technology & Leadership, [mentors](https://ahmadnassri.com/about/#advisor) early stage startups, builds open-source [projects](https://ahmadnassri.com/projects/) used by developers world wide, and organizes technology [conferences](https://refactorconf.com) across Canada.
 
-- 👨‍💻 https://ahmad.link/www
-- 📝 https://ahmad.link/blog
-- 🎙️ https://ahmad.link/podcast
-- 🗨️ https://ahmad.link/slack
-- 📦 https://ahmad.link/npm
-- :octocat: https://ahmad.link/github
+- 👨‍💻 [Website](https://ahmad.link/www)
+- 📝 [Blog](https://ahmad.link/blog)
+- 🎙️ [Podcast](https://ahmad.link/podcast)
+- 🗨️ [Slack](https://ahmad.link/slack)
+- ⚙ [Projects](https://ahmad.link/projects)
+- 👂 [Twitter](https://ahmad.link/twitter)
+- 🤝 [LinkedIn](https://ahmad.link/linkedin)
+- :octocat: [GitHub](https://ahmad.link/github)
