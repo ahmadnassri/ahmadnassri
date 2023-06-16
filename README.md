@@ -13,6 +13,3 @@ Ahmad founded [REFACTOR Community](https://refactorconf.com) — a developer com
 - 🤝 https://www.linkedin.com/in/ahmadnassri/
 - 📢 https://twitter.com/ahmadnassri
 - 📷 https://www.instagram.com/ahmadnassri
-- :octocat: https://github.com/ahmadnassri
-- 🗨️ https://techmasters.community
-- 🎙️ https://hacker.bio
